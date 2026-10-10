@@ -1,5 +1,7 @@
 DataCo Supply Chain Analytics
 
+Note: The analysis script is commented in Italian.
+
 Overview
 
 This project presents a statistical and predictive analysis of supply chain delivery performance using the DataCo Supply Chain dataset.
